@@ -1,0 +1,1 @@
+commande "service mysql status" pour mettre notre serveur mysql en actif

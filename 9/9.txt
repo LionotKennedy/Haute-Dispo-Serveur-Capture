@@ -1,0 +1,1 @@
+machine esclave nous avons configurer pour qu'on peut lier ce deux machines ave cette ligne de commande "CHANGE REPLICATION SOURCE TO SOURCE_HOST='adresse ip de la machine maitre', SOURCE_LOG_FILE='mysql-bin.000003', SOURCE_LOG_POS=727, SOURCE_SSL=1;"

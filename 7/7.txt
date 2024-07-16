@@ -1,0 +1,1 @@
+dans la machine ubuntu 1 (Maitre) nous avons tapez le commande "SHOW MASTER STATUS G\" pour voir que a quel positions nous y sommes et apres nous avons creer un utilisateur en utilisant cette commande "CRAETE USE 'nonUtilisateur'@'l'adresse ip de la machine esclave' IDENTIFIED BY 'mot de passe'" 

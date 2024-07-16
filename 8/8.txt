@@ -1,0 +1,1 @@
+maintenant on va commencer de configurer le mchine ubuntu 2 (esclave)

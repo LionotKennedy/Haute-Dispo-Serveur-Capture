@@ -1,0 +1,1 @@
+commande pour acceder en mysql "mysql -u root -p"

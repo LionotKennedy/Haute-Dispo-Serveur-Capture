@@ -1,0 +1,1 @@
+mis en configuration de la fichier comf mysql

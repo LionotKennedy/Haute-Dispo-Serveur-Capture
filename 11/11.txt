@@ -1,0 +1,1 @@
+nous avons tapez meme commande dans le deux hotes et nous avons meme resultat aussi "show databases;"

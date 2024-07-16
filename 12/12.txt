@@ -1,0 +1,1 @@
+nous avons creer autre une base de donnee appeler "L3" dans le machine Maitre et nous avons aussi de la base de donnee "L3" dans le esclave alors que dans le Maitre que nous avons cree
